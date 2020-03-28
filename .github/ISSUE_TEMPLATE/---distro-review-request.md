@@ -9,17 +9,17 @@ assignees: ''
 
 <!--- Verify first that your Distro was not already submitted! -->
 
-## Name & tl;dr
+## openSUSE Tumbleweed
 <!--- Required: What is the name, version, etc -->
 
-## What is the release date or cycle?
+## Rolling release
 <!--- Optional: This helps in planning future episodes -->
 
-## Who is the target user?
+## Power user (Maybe also a desktop user that is familiarised with Linux)
 <!--- Optional: This helps set the expectation in how compatible it is with the Distro Delve script -->
 
-## What platforms does it support?
+## x86_64 , i583 , aarch64 , ppc64le
 <!--- Optional: x86, x64, arm, etc -->
 
-## What makes it special?
+## It has the best administrator tools I have ever seen... I'm talking about YaST2 (which is also the installer!)
 <!--- Optional: Why should people be excited about this distro? -->
